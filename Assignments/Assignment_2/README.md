@@ -1,5 +1,7 @@
 ## FitzHugh-Nagumo Neuron Model Report
 
+This repository contains the report for the Computational Neuroscience Assignment 2, which explores the behavior of the FitzHugh Nagumo model and its significance in computational neuroscience. The report is divided into the following sections:
+
 1. Introduction
    - Brief overview of the FitzHugh-Nagumo neuron model
    - Importance of understanding the model in the context of excitable cells
